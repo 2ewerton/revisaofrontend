@@ -8,5 +8,5 @@ button.onclick = function () {
   else{
     alert(" que pena voce errou");
   }
-  window.location="escrevendo-aula2,1.js";
+  window.location="aula3.html";
 };
